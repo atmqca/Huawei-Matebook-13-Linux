@@ -16,8 +16,9 @@ If you like this page and want it to get even better and more useful, feel free 
 
 | Device | Model |  Works | Notes |
 | --- | --- |  :---: | --- |
-| Processor | Intel Core i5-8265U | ✔ Yes | 8 cores, power states etc seem to work out of the box |
+| Processor | Intel Core i5-10210U | ✔ Yes | 8 cores, power states etc seem to work out of the box |
 | Graphics | Intel UHD Graphics 620 | ✔ Yes | via standard kernel driver |
+| Graphics | Nvidia MX 250 | ✔ Yes | via standard kernel driver |
 | Memory | 8192 MB | ✔ Yes |  |
 | Display | 13 inch 2:3, 2160x1440 (2K) | ✔ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
 | Storage | Samsung SSD, 256 GB | ✔ Yes | via standard kernel driver |
