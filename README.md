@@ -10,8 +10,6 @@ Huawei Matebook 13 Version with Nvidia Graphics Card is Suitable for Linux. Disa
 You can reach the tested distros below.
 
 
-If you like this page and want it to get even better and more useful, feel free to contribute issues and pull requests, or just [buy me a coffee](https://www.buymeacoffee.com/nekr0z).
-
 ## Linux Support Matrix
 
 | Device | Model |  Works | Notes |
