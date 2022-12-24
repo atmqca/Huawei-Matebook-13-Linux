@@ -16,25 +16,25 @@ If you like this page and want it to get even better and more useful, feel free 
 
 | Device | Model |  Works | Notes |
 | --- | --- |  :---: | --- |
-| Processor | Intel Core i5-10210U | ✔ Yes | 8 cores, power states etc seem to work out of the box |
-| Graphics | Intel UHD Graphics 620 | ✔ Yes | via standard kernel driver |
-| Graphics | Nvidia MX 250 | ✔ Yes | via standard kernel driver |
-| Memory | 8192 MB | ✔ Yes |  |
-| Display | 13 inch 2:3, 2160x1440 (2K) | ✔ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
-| Storage | Samsung SSD, 512 GB | ✔ Yes | via standard kernel driver |
-| Wifi | Intel Wireless-AC 9462 (a/b/g/n/ac) | ✔ Yes |
-| Bluetooth | Intel Bluetooth 5.0| ✔ Yes | works as expected |
-| Soundcard  | Intel Cannon Point-LP High Definition Audio | ✔ Yes  | see [below](#soundcard) for details |
-| Speakers  |  | ✔ Yes |  |
-| Microphone | | ✔ Yes | out of the box |
-| Webcam | HD Camera (13D3:56C6) | ✔ Yes | works out of the box, indicating light too |
+| Processor | Intel Core i5-10210U | ✅ Yes | 8 cores, power states etc seem to work out of the box |
+| Graphics | Intel UHD Graphics 620 | ✅ Yes | via standard kernel driver |
+| Graphics | Nvidia MX 250 | ✅ Yes | via standard kernel driver |
+| Memory | 8192 MB | ✅ Yes |  |
+| Display | 13 inch 2:3, 2160x1440 (2K) | ✅ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
+| Storage | Samsung SSD, 512 GB | ✅ Yes | via standard kernel driver |
+| Wifi | Intel Wireless-AC 9462 (a/b/g/n/ac) | ✅ Yes |
+| Bluetooth | Intel Bluetooth 5.0| ✅ Yes | works as expected |
+| Soundcard  | Intel Cannon Point-LP High Definition Audio | ✅ Yes  | see [below](#soundcard) for details |
+| Speakers  |  | ✅ Yes |  |
+| Microphone | | ✅ Yes | out of the box |
+| Webcam | HD Camera (13D3:56C6) | ✅ Yes | works out of the box, indicating light too |
 | Ports | 2 × USB-C | ✔ Yes | charging works only via left port, external display only via right one, but it is a known hardware limitation of the laptop |
 | Power button |  | ✔ Yes | needs to be pressed for at least a second to generate event |
 | Fingerprint Reader | Goodix GXFP5187 | ❌ No | located on the power button, see [below](#fingerprint-reader) for details  |
 | Battery | Dynapack HB4593J6ECW (42 Wh) | ✔ Yes | see [below](#battery) for details |
-| Lid | ACPI-compliant |  ✔ Yes | works as expected, though ACPI complains in logs |
-| Power management | | ✔ Yes | works, see [below](#power-management) for details |
-| Keyboard |  | ✔ Yes | [see below](#keyboard) for details |
+| Lid | ACPI-compliant |  ✅ Yes | works as expected, though ACPI complains in logs |
+| Power management | | ✅ Yes | works, see [below](#power-management) for details |
+| Keyboard |  | ✅ Yes | [see below](#keyboard) for details |
 | Touchpad | ELAN962C:00 04F3:30D0 | ✔ Yes | touchpad is detected and works in KDE (though not in Debian installer), [see below](#touchpad) for details |
 | Port Extender | MateDock 2 dongle included with the laptop | ✔ Yes | D-SUB, full-size HDMI, USB-C and USB-A work as expected |
 
@@ -60,4 +60,4 @@ S4 Hibernation / Wake   |  ✅
   
 Type | Info | Status
 :---------|:---------|:----------
-Fingerprint | Not supported in macOS | ❌
+Fingerprint | Not supported in Linux | ❌
