@@ -74,3 +74,7 @@ Fingerprint | Not supported in Linux | ❌
 | Deepin |✅ Yes | Acpi Errors Are Present  |
 | Debian |✅ Yes | Acpi Errors Are Present |
 | Manjaro |✅ Yes |  |
+
+
+## ACPI Error Solution
+
