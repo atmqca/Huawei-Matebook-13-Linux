@@ -47,7 +47,7 @@ Intel UHD Graphics 620              |  ✅
 Brightness control                  |  ✅  
 HDMI                                |  ✅  
 Audio Realtek ALC256            |  ✅  
-Intel Wireless-AC 9462 Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  
+Intel Wireless-AC 9462 Wi-Fi and Bluetooth...         |  ✅  
 2 Type-C Port       |  ✅  
 Touchpad (14 gestures are working)   |  ✅  
 Battery status   |  ✅  
