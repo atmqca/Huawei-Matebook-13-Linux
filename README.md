@@ -1,5 +1,5 @@
 # Linux on Huawei MateBook 13 (2020)
-![209429947-c3853777-57c9-4137-b062-c2b22a45c226](https://user-images.githubusercontent.com/102032847/209430102-5a5d8247-5b79-4f41-9595-74d5e0e7299e.png)
+![209429947-c3853777-57c9-4137-b062-c2b22a45c226](https://user-images.githubusercontent.com/102032847/209430127-24b5b38d-c149-46d6-9f44-977e142dc94e.png)
 
 
 
