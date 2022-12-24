@@ -77,4 +77,5 @@ Fingerprint | Not supported in Linux | ❌
 
 
 ## ACPI Error Solution
+![Ekran görüntüsü 2022-12-24 125540](https://user-images.githubusercontent.com/102032847/209430793-5218c162-b3d6-4b84-9fac-45c58e085556.png)
 
