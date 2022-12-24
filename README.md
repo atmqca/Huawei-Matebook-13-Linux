@@ -5,9 +5,9 @@
 
 ## Background
 
-Huawei MateBook 13, released in 2019, has at least two modifications (different CPUs, integrated vs. dedicated graphics). Both come with Microsoft Windows 10 and there initially was no information at all concerning Linux support.
+Huawei Matebook 13 Version with Nvidia Graphics Card is Suitable for Linux. Disable SecureBoot While Installing. You May Get 'ACPI' Errors When Booting After Installation. Read The Instructions Below To Hide These Errors.
 
-I am running Debian on the more simple MateBook 13 variant, model Wright-W19. This repository documents what works and what does not.
+You can reach the tested distros below.
 
 [Reportedly](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/issues/21), it also holds true for at least one 2020 Huawei Matebook 13 (AMD Ryzen 5 3500) running Elementary OS.
 
