@@ -64,6 +64,8 @@ Type | Info | Status
 Fingerprint | Not supported in Linux | ❌
 
 
+## Tested Distros
+
 | Distro |Works | Notes |
 | --- |----: | --- |
 | LinuxMint |✅ Yes | Acpi Errors Are Present |
