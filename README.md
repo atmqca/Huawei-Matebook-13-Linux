@@ -66,9 +66,9 @@ Fingerprint | Not supported in Linux | ❌
 
 | Distro |Works | Notes |
 | --- |----: | --- |
-| LinuxMint |✅ Yes | 8 cores, power states etc seem to work out of the box |
-| Ubuntu |✅ Yes | via standard kernel driver |
-| ElemantaryOS |✅ Yes | via standard kernel driver |
-| Deepin |✅ Yes |  |
-| Debian |✅ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
-| Manjaro |✅ Yes | via standard kernel driver |
+| LinuxMint |✅ Yes | Acpi Errors Are Present |
+| Ubuntu |✅ Yes | Acpi Errors Are Present |
+| ElemantaryOS |✅ Yes | Acpi Errors Are Present |
+| Deepin |✅ Yes | Acpi Errors Are Present  |
+| Debian |✅ Yes | Acpi Errors Are Present |
+| Manjaro |✅ Yes |  |
