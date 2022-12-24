@@ -36,7 +36,7 @@ If you like this page and want it to get even better and more useful, feel free 
 | Power management | | ✅ Yes | works, see [below](#power-management) for details |
 | Keyboard |  | ✅ Yes | [see below](#keyboard) for details |
 | Touchpad | ELAN962C:00 04F3:30D0 | ✅ Yes | touchpad is detected and works in KDE (though not in Debian installer), [see below](#touchpad) for details |
-| Port Extender | MateDock 2 dongle included with the laptop | ✔ Yes | D-SUB, full-size HDMI, USB-C and USB-A work as expected |
+| Port Extender | MateDock 2 dongle included with the laptop | ✅ Yes | D-SUB, full-size HDMI, USB-C and USB-A work as expected |
 
 ## What's working  💻
   
