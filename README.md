@@ -67,10 +67,8 @@ Fingerprint | Not supported in Linux | ❌
 | Distro |Works | Notes |
 | --- |----: | --- |
 | LinuxMint |✅ Yes | 8 cores, power states etc seem to work out of the box |
-| Graphics | Intel UHD Graphics 620 | ✅ Yes | via standard kernel driver |
-| Graphics | Nvidia MX 250 | ✅ Yes | via standard kernel driver |
-| Memory | 8192 MB | ✅ Yes |  |
-| Display | 13 inch 2:3, 2160x1440 (2K) | ✅ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
-| Storage | Samsung SSD, 512 GB | ✅ Yes | via standard kernel driver |
-| Wifi | Intel Wireless-AC 9462 (a/b/g/n/ac) | ✅ Yes |
-| Bluetooth | Intel Bluetooth 5.0| ✅ Yes | works as expected |
+| Ubuntu |✅ Yes | via standard kernel driver |
+| ElemantaryOS |✅ Yes | via standard kernel driver |
+| Deepin |✅ Yes |  |
+| Debian |✅ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
+| Manjaro |✅ Yes | via standard kernel driver |
