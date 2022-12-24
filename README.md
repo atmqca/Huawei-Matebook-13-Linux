@@ -9,7 +9,6 @@ Huawei Matebook 13 Version with Nvidia Graphics Card is Suitable for Linux. Disa
 
 You can reach the tested distros below.
 
-[Reportedly](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/issues/21), it also holds true for at least one 2020 Huawei Matebook 13 (AMD Ryzen 5 3500) running Elementary OS.
 
 If you like this page and want it to get even better and more useful, feel free to contribute issues and pull requests, or just [buy me a coffee](https://www.buymeacoffee.com/nekr0z).
 
