@@ -21,8 +21,8 @@ If you like this page and want it to get even better and more useful, feel free 
 | Graphics | Nvidia MX 250 | ✔ Yes | via standard kernel driver |
 | Memory | 8192 MB | ✔ Yes |  |
 | Display | 13 inch 2:3, 2160x1440 (2K) | ✔ Yes | resolution is correctly detected by `xrandr`, backlight control works via native function keys and can be controlled by KDE settings, see [below](#display) for details on scaling issues |
-| Storage | Samsung SSD, 256 GB | ✔ Yes | via standard kernel driver |
-| Wifi | Intel Cannon Point Wireless-AC 8265 (a/b/g/n/ac) | ✔ Yes | requires kernel 4.14 and firmware (`firmware-iwlwifi` non-free package) |
+| Storage | Samsung SSD, 512 GB | ✔ Yes | via standard kernel driver |
+| Wifi | Intel Wireless-AC 9462 (a/b/g/n/ac) | ✔ Yes |
 | Bluetooth | Intel Bluetooth 5.0| ✔ Yes | works as expected |
 | Soundcard  | Intel Cannon Point-LP High Definition Audio | ✔ Yes  | see [below](#soundcard) for details |
 | Speakers  |  | ✔ Yes |  |
