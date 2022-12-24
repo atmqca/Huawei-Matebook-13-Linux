@@ -64,8 +64,8 @@ Type | Info | Status
 Fingerprint | Not supported in Linux | ❌
 
 
-| Distro | |  Works | Notes |
-| --- | --- |  :---: | --- |
+| Distro |Works | Notes |
+| --- |----: | --- |
 | LinuxMint |✅ Yes | 8 cores, power states etc seem to work out of the box |
 | Graphics | Intel UHD Graphics 620 | ✅ Yes | via standard kernel driver |
 | Graphics | Nvidia MX 250 | ✅ Yes | via standard kernel driver |
